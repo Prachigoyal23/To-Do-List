@@ -10,10 +10,10 @@ If you're working directly inside this folder:
    ```bash
    npm install
 
-Start the dev server:
-
+2. Start the dev server:
+   ```bash
    npm run dev
 
-Open the app at:
-
+3. Open the app at:
+   ```bash
    http://localhost:5173
