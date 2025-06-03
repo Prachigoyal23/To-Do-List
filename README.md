@@ -22,7 +22,7 @@ A simple and stylish To-Do List built with React. Users can add, edit, complete,
 
 📁 Project Structure
 
-.
+
 ├── public/
 ├── src/
 │   ├── Components/
@@ -39,20 +39,21 @@ A simple and stylish To-Do List built with React. Users can add, edit, complete,
 
 🛠️ Installation & Setup
 
-    Clone the repository
+Clone the repository
 
-git clone https://github.com/Prachigoyal23/To-Do-List.git
-cd vite-project
+    git clone https://github.com/Prachigoyal23/To-Do-List.git
+
+    cd to-do-list
 
 Install dependencies
 
-npm install
+    npm install
 
 Run the development server
 
     npm run dev
 
-    This will launch the app in your default browser at http://localhost:5173
+This will launch the app in your default browser at http://localhost:5173
 
 ---
 
