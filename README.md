@@ -26,12 +26,13 @@ A simple and stylish To-Do List built with React. Users can add, edit, complete,
 ├── public/
 ├── src/
 │   ├── Components/
-│   │   ├── Header.js
-│   │   ├── ToDoItem.js
-│   │   └── ToDoList.js
-│   ├── App.js
+│   │   ├── Header.jsx
+│   │   ├── ToDoItem.jsx
+│   │   └── ToDoList.jsx
+│   ├── App.jsx
+|   ├──App.css
 │   ├── index.css
-│   └── index.js
+│   └── main.jsx
 ├── package.json
 └── README.md
 
