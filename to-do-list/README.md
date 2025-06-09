@@ -6,14 +6,20 @@ This folder contains the source code for the React To-Do List application.
 
 If you're working directly inside this folder:
 
-1. Install dependencies:
+1. Clone the repository
+    ```bash
+    git clone https://github.com/Prachigoyal23/To-Do-List.git
+
+    cd to-do-list
+
+2. Install dependencies:
    ```bash
    npm install
 
-2. Start the dev server:
+3. Start the dev server:
    ```bash
    npm run dev
 
-3. Open the app at:
+4. Open the app at:
    ```bash
    http://localhost:5173
