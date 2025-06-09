@@ -4,7 +4,7 @@ A simple and stylish To-Do List built with React. Users can add, edit, complete,
 
 ---
 
-🚀 Features
+## 🚀 Features
 
     ✅ Add new tasks
 
@@ -20,7 +20,7 @@ A simple and stylish To-Do List built with React. Users can add, edit, complete,
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 ├── public/
@@ -38,7 +38,7 @@ A simple and stylish To-Do List built with React. Users can add, edit, complete,
 
 ---
 
-🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 
 Clone the repository
 
@@ -58,7 +58,7 @@ This will launch the app in your default browser at http://localhost:5173
 
 ---
 
-🧾 Usage
+## 🧾 Usage
 
     Type in the input box and click the ➕ button to add a task.
 
@@ -70,7 +70,7 @@ This will launch the app in your default browser at http://localhost:5173
 
 ---
 
-🖼 UI Notes
+## 🖼 UI Notes
 
     Styled with custom CSS
 
